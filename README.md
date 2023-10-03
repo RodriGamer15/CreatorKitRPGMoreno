@@ -1,2 +1,2 @@
-# CreatorKitRPGMorenoP8
+# CreatorKitRPGP8
 Creating a repo for my RPG Project
